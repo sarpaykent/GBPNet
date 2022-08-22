@@ -1,0 +1,6 @@
+python==3.6
+torch==1.10.2
+atom3d
+torch-geometric==2.0.3
+torchmetrics==0.7.0
+pytorch_lightning==1.5.3
